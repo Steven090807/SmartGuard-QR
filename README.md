@@ -29,11 +29,13 @@ An automated Resident Access Control System built with Python, featuring real-ti
 <br>
 
 ## 🛠️ Technical Stack
-* **Language:** Python 3.x
-* **Computer Vision:** OpenCV (`cv2`)
-* **Decoder:** PyZBar
-* **Data Processing:** NumPy, Regex
-* **Storage:** CSV (Flat-file database)
+| Component | Technology |
+| :--- | :--- |
+| **Language** | Python |
+| **Computer Vision** |  OpenCV (`cv2`) |
+| **Decoder** | PyZBar |
+| **Data Processing** | NumPy, Regex |
+| **Storage** | CSV (Flat-file database) |
 <br>
 
 ## 📂 Project Structure
